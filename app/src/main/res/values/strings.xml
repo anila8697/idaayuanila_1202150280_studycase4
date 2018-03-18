@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">idaayuanila_1202150280_studycase4</string>
+    <string name="cari_gambar">Cari Gambar</string>
+    <string name="masukkan_url_gambar">Masukkan URL Gambar</string>
+
+    <string-array name="mahasiswa">
+        <item>Anila</item>
+        <item>Sukma</item>
+        <item>Murti</item>
+        <item>Ida</item>
+        <item>Ayu</item>
+        <item>Gede</item>
+        <item>Dayu</item>
+        <item>Anil</item>
+    </string-array>
+</resources>
